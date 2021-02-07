@@ -41,7 +41,7 @@ I have provided links and methods for those below.
 
 ## Todo:
 - [X] Adapt New and Old Both Backup Formats
-- [ ] Reels Option [WIP]
+- [X] Reels Option [WIP]
 - [ ] Add Reactions and External Links to Acutal Instagram Sources [WIP]
 - [ ] More Reduction in Size and Install Time
 - [ ] Bundle Frontend
